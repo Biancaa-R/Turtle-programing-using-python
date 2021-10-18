@@ -1,3 +1,6 @@
+#Program for working with turtle programing
+#Turtle library is preinstalled
+
 from turtle import*
 
 bgcolor('black')
@@ -47,4 +50,5 @@ forward(20)
 left(180)
 forward(40)
 
-
+penup()
+#end
